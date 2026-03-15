@@ -32,7 +32,7 @@ Distributed learning of polygon embeddings using GPU acceleration and HPC cluste
 
 ---
 
-### [AI Accessibility Analyzer](https://github.com/ruban-ai/ai-accessibility-analyzer)
+### [AI Accessibility Analyzer](https://github.com/ruban-ai/deep-learning-accessibility-audit)
 AI system for detecting accessibility issues in digital content including images, tables, headings, and links.
 
 **Tech:** Python, Deep Learning, Computer Vision, Multimodal Models
